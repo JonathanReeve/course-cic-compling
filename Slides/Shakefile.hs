@@ -10,4 +10,4 @@ main = shakeArgs shakeOptions{shakeFiles="_build"} $ do
         let md = out -<.> "md"
         let template = "default.revealjs"
         need [md, template]
-        cmd_ "pandoc --standalone -t revealjs" ["--template="++template] "-o" [out] [md]
+        cmd_ "pandoc --standalone -t revealjs -Vtheme=solarized" "-o" [out] [md]
