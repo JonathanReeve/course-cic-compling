@@ -61,7 +61,7 @@ Here are some possibilities:
 
 (Choose *five*.)
 
-1. Write an ad-hoc POS tagger for Esperanto, using your knowledge of its word endings. It doesn't have to be complete, but should handle JJ, NN, VRB, and PRP. Use this to POS-tag your Esperanto text. Compare the proportions of POSes between the Esperanto and English text, which you can tag with `pos_tag()`. What are the differences between the two? 
+1. Write an ad-hoc POS tagger for Esperanto, using your knowledge of its word endings. It doesn't have to be complete, but should handle JJ, NN, VBD, and PRP. Use this to POS-tag your Esperanto text. Compare the proportions of POSes between the Esperanto and English text, which you can tag with `pos_tag()`. What are the differences between the two? 
 2. How many words are in each text? Find a sentence or two that are translations of one another, but have a big difference in word length. Explain why one needs more or fewer words than its translation.
 3. Compare the most frequent trigrams, or 4-grams, or 5-grams, of each. Are there some that don't seem to have counterparts in the other language? 
 4. Familiarize yourself with Esperanto [suffixes](https://lernu.net/en/gramatiko/sufiksoj) and  [prefixes](https://lernu.net/en/gramatiko/prefiksoj). Choose a few to identify and discuss. For example, `-aĉ-` expresses poor quality. So _domo_, house, becomes _domaĉo_, a badly constructed house that's falling apart. Write a Python function to find any `-aĉo` (or `-aĉe`, `-aĉa`, etc.) words in your text. What are the English equivalents of those? Do these highlight any aspects of the text for you?
