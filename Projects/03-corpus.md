@@ -53,7 +53,8 @@ tvShow = {"season-1":
  d. A trigram-model language generator. 
  e. A concordance for a few word/POS patterns, like "the best NN," but of any length, and which provides context. 
  f. An analysis of the most/least distinctive words of each of your texts. How do they compare with one another?
- g. A new analysis, of your invention. Feel free to contact me if you want some help in brainstorming. You'll want to explain your methods, as well as your results.
+ g. A comparative sentiment analysis of each of your texts.
+ h. A new analysis, of your invention. Feel free to contact me if you want some help in brainstorming. You'll want to explain your methods, as well as your results.
 
 Submit your project as a Jupyter notebook file (.ipynb) no later than Monday, December 14. Remember that you can't use your late hours for this assignment. 
 
