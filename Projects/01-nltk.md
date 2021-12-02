@@ -2,12 +2,11 @@
 
 Computing in Context: Computational Linguistics
 
-Due November 9th at 23:59.
+Due November 8th at 23:59.
 
 ## In preparation
 
-1. Make sure you've watched Lecture 1, in the video library of the main course CourseWorks page.
-2. Read [Chapter 1 of the NLTK book.](http://www.nltk.org/book/ch01.html).
+1. Read [Chapter 1 of the NLTK book.](http://www.nltk.org/book/ch01.html).
 
 ## The assignment
 

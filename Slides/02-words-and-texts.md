@@ -5,27 +5,6 @@ author: Jonathan Reeve
 date: 29 October 2020
 ---
     
-# Computing in Context: Computational Linguistics
-
-## Info 
-
- - Jonathan Reeve (jonathan.reeve@columbia.edu)
- - Department of English and Comparative Literature, Columbia U
- - Linguistic approaches to literature
- - Computational approaches to language analysis
- - Also teaching Introduction to Computational Literary Analysis
-
-## 
-
-Watch the track intro video! 
-(In the video library section on CourseWorks)
-
-## No prerequisites
-
- - No need to speak other languages
- - No need to be a linguistics major
- - Just need an interest in language
-
 # Linguistics 
 
 ## Syntax
